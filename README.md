@@ -62,4 +62,7 @@ Layout managed using **Flexbox** and **CSS Grid** where applicable.
 2. Open `index.html` in your browser.
 
 Alternatively, view the hosted version:
-> 🌐 [Live Preview (Optional link if hosted)](https://your-live-demo-link)
+> 🌐 [Live Preview (Optional link if hosted)](https://github.com/Upendrasg/TLT/blob/main/DemoImges/Desktop.png)
+
+1. https://github.com/Upendrasg/TLT/blob/main/DemoImges/Desktop.png
+2. https://github.com/Upendrasg/TLT/blob/main/DemoImges/mobile.png
